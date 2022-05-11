@@ -1,0 +1,17 @@
+[
+    {
+        "strID": "1",
+        "strIme": "Spring framework1",
+        "strOpis": "Spring framework opis1"
+    },
+    {
+        "strID": "2",
+        "strIme": "Spring framework2",
+        "strOpis": "Spring framework opis2"
+    },
+    {
+        "strID": "3",
+        "strIme": "Spring framework3",
+        "strOpis": "Spring framework opis3"
+    }
+]
